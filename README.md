@@ -101,9 +101,7 @@ Fake-news-detection/
 - Error handling and input validation
 - Full-stack web development
 
-## Screenshots
 
-*Add screenshots of your application here*
 
 ### Example Usage:
 1. **Real News Detection**
